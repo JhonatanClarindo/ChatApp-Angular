@@ -6,7 +6,7 @@
   font-family: 'Nunito', sans-serif;
 }
 html, body {
-  background: linear-gradient(120deg, #848484, #6265c7);
+  background: linear-gradient(120deg, #008080, #1a364e);
   overflow: hidden;
 }
 
@@ -23,11 +23,11 @@ button {
   width: 200px;
   height: 30px;
   outline: none;
-  border: 1px solid #8182c1;
+  border: 1px solid #5c7e96;
   padding: 5px;
   border-radius: 5px;
   cursor: pointer;
-  background: #4a4eab;
+  background: #5c7e96;
   color: #fff;
   text-transform: uppercase;
   &:focus {

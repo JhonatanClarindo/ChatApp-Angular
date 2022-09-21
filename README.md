@@ -1,3 +1,5 @@
+![img_chat](img.png)
+
 # Chat APP
 For chat we used nodejs + express as server and on the front-end we used Angular. To send the messages between server and front-end I used socket.io. 
 
